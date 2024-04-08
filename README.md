@@ -1,6 +1,5 @@
 # Terminal-Impact
 Won Best Fun Hack @ LAHVIII
--------------
 
 Who Are We and What Are We Doing?
 =======
